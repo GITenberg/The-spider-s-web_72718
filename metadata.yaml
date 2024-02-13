@@ -1,5 +1,8 @@
 _repo: The-spider-s-web_72718
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72718-h/images/cover.jpg
 creator:
   author:
     agent_name: Rathborne, St. George
@@ -20,6 +23,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/4161
     - https://en.wikipedia.org/wiki/St_George_Henry_Rathborne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72718#The-spider-s-web
 gutenberg_issued: '2024-01-14'
 gutenberg_type: Text
 identifiers:
