@@ -1,0 +1,47 @@
+_repo: The-spider-s-web_72718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rathborne, St. George
+    aliases:
+    - Adams, Harrison
+    - Old Broadbrim
+    - Clifton, Oliver Lee
+    - St. George, Harry
+    - George, Harry St.
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '1599'
+    url: http://www.gutenberg.org/2009/agents/1599
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/52760
+    - http://www.gutenberg.org/ebooks/author/45240
+    - http://www.gutenberg.org/ebooks/author/2624
+    - http://www.gutenberg.org/ebooks/author/4161
+    - https://en.wikipedia.org/wiki/St_George_Henry_Rathborne
+description: ''
+gutenberg_issued: '2024-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72718'
+  lccn: c98000271
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:699375
+pgterms:marc905: 20220331164710rathborne
+pgterms:marc906: '1896'
+pgterms:marc907: us
+production_note: Demian Katz and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bStreet & Smith, $c1896, copyright 1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Eagle library, no. 71
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Dime novels'
+- !lcsh 'Popular literature'
+- !lcc 'PS'
+- GITenberg
+title: The spider's web
+url: http://www.gutenberg.org/ebooks/72718
